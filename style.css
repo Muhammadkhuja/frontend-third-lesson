@@ -59,7 +59,7 @@ a {
   color: black;
 }
 
-.image_tool {
+.image_tools {
   display: flex;
   background-image: url(./img/image.svg);
   background-size: cover;
